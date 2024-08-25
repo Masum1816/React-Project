@@ -1,0 +1,57 @@
+.background-AddData{
+    width: 100%;
+    /* height: 1000px; */
+    background-color: #0e382c;
+}
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    padding: 30px;
+}
+.img-width-logo{
+    width: 100px;
+    height: 100px;
+    margin: 0px auto;
+}
+.add-data-container{
+    background-color: #f7f7f7;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-image: url('./Images/floral-top-right.png');
+    background-repeat: no-repeat;
+}
+.form-title{
+    background-color: white;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #0e382c;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.form-input{
+    border-radius: 20px;
+    padding: 15px;
+    box-shadow: none;
+    border: 1px solid #ced4da;
+    font-size: 16px;
+}
+.submit-btn{
+    background-color: #2ecc71;
+    border: none;
+    border-radius: 20px;
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+.submit-btn:hover{
+    background-color: #27ae60;
+}
+.img-width{
+    width: 100%;
+}
+
